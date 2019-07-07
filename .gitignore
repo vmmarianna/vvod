@@ -2,7 +2,7 @@
 *.class
 
 #IDE config
-.idea/
+/.idea/
 # Log file
 *.log
 
